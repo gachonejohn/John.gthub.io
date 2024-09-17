@@ -58,8 +58,8 @@ body{
 }
 .get-pro {
 	position: absolute;
-	left: -80px;
-	width:80px;
+	left: -100px;
+	width:100px;
 	height: 45px;
 	line-height: 45px;
 	font-size: 14px;
